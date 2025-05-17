@@ -23,6 +23,18 @@
 - 🔗 [Church Game Sunday Event](https://github.com/YOUR_USERNAME/Church-Game-Sunday)  
   _Planned and executed a full community event with tech integration and digital coordination._
 
+## 🛠️ My Tool Stack
+
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/-Asana-273347?style=flat&logo=asana&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
+![Google Docs](https://img.shields.io/badge/-Google%20Docs-4285F4?style=flat&logo=google-docs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![GanttProject](https://img.shields.io/badge/-GanttProject-FF6F00?style=flat&logoColor=white)
+
+
 ## 📊 GitHub Overview
 Even though I'm not a developer, I use GitHub to:
 - Track project milestones
