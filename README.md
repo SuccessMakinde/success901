@@ -41,7 +41,7 @@ Even though I'm not a developer, I use GitHub to:
 - Collaborate with developers
 - Review progress and timelines
 
-## 🤝 Let's Connect!
+## 🤝Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/your-profile](https://www.linkedin.com/in/success-makinde?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://your-portfolio-link)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](makindesuccess9@gmail.com)
