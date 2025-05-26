@@ -1,0 +1,21 @@
+name: Generate GitHub Profile Summary Cards
+
+on:
+  # runs every day at 00:00 UTC & when you push the README
+  schedule:  [ { cron: "0 0 * * *" } ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 👉 the magic step
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.0
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # output folder that will be auto-generated
+          OUTPUT_DIR: profile-summary-card-output
+          # try other built-in themes like 'vue', 'tokyonight', 'github'…​
+          THEME: github_dark
