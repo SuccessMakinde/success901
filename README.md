@@ -48,6 +48,22 @@ Even though I'm not a developer, I use GitHub to:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://your-portfolio-link)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](makindesuccess9@gmail.com)
 
+## 📊 GitHub Stats
+
+<!-- Profile Details & Grade -->
+![Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)
+
+<!-- Most-used Languages -->
+![Top Languages](./profile-summary-card-output/github_dark/3-most-used-languages.svg)
+
+<!-- Streak / Contributions -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuccessMakinde&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Trophy board (optional) -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SuccessMakinde&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 <!---
 success901/success901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
