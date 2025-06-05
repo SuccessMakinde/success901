@@ -50,12 +50,6 @@ Even though I'm not a developer, I use GitHub to:
 
 ## 📊 GitHub Stats
 
-<!-- Profile Details & Grade -->
-![Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)
-
-<!-- Most-used Languages -->
-![Top Languages](./profile-summary-card-output/github_dark/3-most-used-languages.svg)
-
 <!-- Streak / Contributions -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=SuccessMakinde&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
