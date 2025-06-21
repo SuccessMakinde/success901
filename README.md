@@ -19,11 +19,10 @@
 - Documentation: Notion, Google Docs
 
 ## 🚀 Projects I've Led
-- 🔗 [Election Web App Setup](https://github.com/YOUR_USERNAME/Election-Web-App-Setup)  
-  _Managed frontend/backend team, coordinated deadlines, delivered MVP in 2 weeks._
+- 🔗 [Task Sync Web App development](https://github.com/SuccessMakinde/TaskSync-Web-Application)  
+  _Led the TaskSync Web Application project, overseeing planning and execution using Agile methods, coordinated virtual team efforts, and delivered a functional prototype within a 30-day timeline, achieving 100% stakeholder alignment._
 
-- 🔗 [Church Game Sunday Event](https://github.com/YOUR_USERNAME/Church-Game-Sunday)  
-  _Planned and executed a full community event with tech integration and digital coordination._
+
 
 ## 🛠️ My Tool Stack
 
